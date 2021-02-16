@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "Building Streamy+",
+      "description": "Working on my livestreaming platform",
+      "userId": "111779788686115296032",
+      "id": 1
+    },
+    {
+      "title": "Building REPRO",
+      "description": "Real estate transaction management software",
+      "userId": "111779788686115296032",
+      "id": 2
+    },
+    {
+      "title": "Test",
+      "description": "This is a test",
+      "userId": "111779788686115296032",
+      "id": 3
+    }
+  ]
+}
